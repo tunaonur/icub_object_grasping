@@ -1,0 +1,3 @@
+/home/tarik/ros_ws/src/icub_object_grasping/yarp/build/CMakeFiles/rebuild_cache.dir
+/home/tarik/ros_ws/src/icub_object_grasping/yarp/build/CMakeFiles/edit_cache.dir
+/home/tarik/ros_ws/src/icub_object_grasping/yarp/build/CMakeFiles/yarp_pose.dir
